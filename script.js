@@ -15,7 +15,6 @@ yes.addEventListener("click", () => {
     question.style.transition = "0.4s";
   }, 500);
   question.innerHTML = "Thank You Motu, You're So Sweet";
-  console.log("heloo");
 });
 
 no.addEventListener("mouseenter", () => {
